@@ -1,10 +1,10 @@
-<h1 align="center">Helo 👋, I'm Bharath</h1>
+<h1>Helo 👋, I'm Bharath</h1>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-02&label=Profile%20views&color=0e75b6&style=flat"
-        alt="Bharath" /> </p>
-<br>
-<h3 align="left">Connect with me:</h3>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-02&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Bharath" /> </div>
+        
+<h3>Connect with me:</h3>
 <a href="https://twitter.com/Bharath18137129">
   <img align="left" alt="Bharath's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
