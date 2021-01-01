@@ -50,7 +50,7 @@
 
 
 <a href="https://github.com/bharath-02">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharath-02&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharath-02&show_icons=true&theme=light&line_height=27" alt="Bharath's github stats"/>
 </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharath-02&bg_color=191919">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharath-02">
