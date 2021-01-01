@@ -44,10 +44,16 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 <br>
 <br>
-
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-02&theme=light&hide_langs_below=1" />
+</a>
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharath-02&show_icons=true&theme=tokyonight&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="Bharath"/>
 </p>
+
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
 <div>
     <img align="left"  src="https://github-readme-stats.vercel.app/api?username=bharath-02&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </div>
