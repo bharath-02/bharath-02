@@ -5,7 +5,7 @@
         alt="Bharath" /> </div>
         
 <h3>Connect with me:</h3>
-<a href="https://twitter.com/Bharath18137129">
+<a href="https://twitter.com/alwaysbharath02">
   <img align="left" alt="Bharath's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/bharath-j-3861171ab/">
