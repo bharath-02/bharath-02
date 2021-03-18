@@ -23,11 +23,11 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on ... Full-Stack Projects
-- 🌱 I’m currently learning ... Latest Web Technologies
-- 🤔 I’m looking for help with ... React, Redux
+- 🔭 I’m currently working at ... Banfico LTD
+- 🌱 I’m currently learning ... Gatsby, nginx, Graphql
+- 🤔 I’m looking for help with ... nginx, Graphql
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... bharathj222000@gmail.com
+- 📫 How to reach me: ... 6381957369 (whatsapp)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a Full-Stack Web Developer
 
